@@ -1,8 +1,7 @@
-👋 Hi, I'm Mehedi Hasan
-
-🎓 CSE Student
-💼 Assistant Engineer – at OnnoRokom Projukti Limited.
-🎯 Aspiring Software QA Engineer
-☕ Learning Software Testing & Automation
-📍 Bangladesh
+👋 Hi, I'm Mehedi Hasan <br>
+🎓 CSE Student <br>
+💼 Assistant Engineer – at OnnoRokom Projukti Limited. <br>
+🎯 Aspiring Software QA Engineer <br>
+☕ Learning Software Testing & Automation <br>
+📍 Bangladesh <br>
 Always learning. Always improving.
